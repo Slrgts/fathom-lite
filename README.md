@@ -5,4 +5,4 @@ Fathom Analytics is a privacy-focused website analytics service that allows webs
 
 To deploy on [Railway](https://railway.app/?referralCode=alphasec), click the button below.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/indNPy?referralCode=alphasec)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/dXJiR5?referralCode=alphasec)
